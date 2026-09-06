@@ -110,10 +110,8 @@
       "gallery.title": "من الميدان… صورٌ تتحدث عنا",
       "gallery.c1": "حفر بئر ارتوازية — سهل سايس",
       "gallery.c2": "برج الحفر جاهز للانطلاق",
-      "gallery.c3": "لقم DTH جديدة من المصنع",
-      "gallery.c4": "شاحنة الحفر المرسيدس",
-      "gallery.c5": "تدخل حفر بين أشجار الزيتون",
-      "gallery.c6": "شحنات المطارق الغاطسة",
+      "gallery.c3": "جميع القطع و المزيد", "gallery.c4": "جميع القطع و المزيد",
+      "gallery.c5": "حفارة ريح", "gallery.c6": "حفر في أماكن ضيقة",
       "gallery.ph": "مكان محجوز لصور أعمالك القادمة",
       "ba.kicker": "قبل / بعد",
       "ba.title": "أرضٌ عطشى… تصيرُ خضراء",
@@ -157,7 +155,7 @@
       "contact.call.t": "الهاتف", "contact.wa.t": "واتساب",
       "contact.wa.d": "رد سريع طوال أيام الأسبوع",
       "contact.hours.t": "أوقات العمل",
-      "contact.hours.d": "7 أيام في الأسبوع — من 8 صباحاً إلى 7 مساءً",
+      "contact.hours.d": "خدمة 24 ساعة — 7 أيام في الأسبوع",
       "contact.loc.t": "المقر والفروع",
       "contact.loc.d": "فاس – مكناس • أكادير • مراكش",
       "contact.follow": "تابعنا:",
@@ -232,10 +230,8 @@
       "gallery.title": "Depuis le terrain… des images qui parlent de nous",
       "gallery.c1": "Forage artésien — plaine du Saïs",
       "gallery.c2": "Le mât de forage prêt à démarrer",
-      "gallery.c3": "Taillants DTH neufs d'usine",
-      "gallery.c4": "Le camion de forage Mercedes",
-      "gallery.c5": "Forage entre les oliviers",
-      "gallery.c6": "Livraisons de marteaux fond-de-trou",
+      "gallery.c3": "Toutes les pièces et plus encore", "gallery.c4": "Toutes les pièces et plus encore",
+      "gallery.c5": "Foreuse dans le vent", "gallery.c6": "Forage en espaces exigus",
       "gallery.ph": "Place réservée à vos futures réalisations",
       "ba.kicker": "Avant / Après",
       "ba.title": "Une terre assoiffée… qui devient verte",
@@ -279,7 +275,7 @@
       "contact.call.t": "Téléphone", "contact.wa.t": "WhatsApp",
       "contact.wa.d": "Réponse rapide 7 jours sur 7",
       "contact.hours.t": "Horaires",
-      "contact.hours.d": "7 jours sur 7 — de 8h à 19h",
+      "contact.hours.d": "Service 24h/24 — 7 jours sur 7",
       "contact.loc.t": "Siège et antennes",
       "contact.loc.d": "Fès – Meknès • Agadir • Marrakech",
       "contact.follow": "Suivez-nous :",
@@ -354,10 +350,8 @@
       "gallery.title": "From the field… photos that speak for us",
       "gallery.c1": "Artesian drilling — Saïs plain",
       "gallery.c2": "The drilling mast ready to go",
-      "gallery.c3": "Brand-new DTH bits from the factory",
-      "gallery.c4": "The Mercedes drilling truck",
-      "gallery.c5": "Drilling among the olive trees",
-      "gallery.c6": "Down-the-hole hammer shipments",
+      "gallery.c3": "All parts and more", "gallery.c4": "All parts and more",
+      "gallery.c5": "Rig in the wind", "gallery.c6": "Drilling in tight spaces",
       "gallery.ph": "Reserved for your future work photos",
       "ba.kicker": "Before / After",
       "ba.title": "A thirsty land… turning green",
@@ -401,7 +395,7 @@
       "contact.call.t": "Phone", "contact.wa.t": "WhatsApp",
       "contact.wa.d": "Fast replies 7 days a week",
       "contact.hours.t": "Working hours",
-      "contact.hours.d": "7 days a week — 8am to 7pm",
+      "contact.hours.d": "24-hour service — 7 days a week",
       "contact.loc.t": "HQ and branches",
       "contact.loc.d": "Fès – Meknès • Agadir • Marrakech",
       "contact.follow": "Follow us:",
@@ -544,7 +538,7 @@
     var total = geoSection.offsetHeight - window.innerHeight;
     var p = clamp((window.innerHeight / 2 - rect.top) / (total > 0 ? total : 1), 0, 1);
     drillPipe.style.setProperty("--p", p.toFixed(4));
-    if (depthVal) depthVal.textContent = Math.round(p * 120);
+    if (depthVal) depthVal.textContent = Math.round(p * 1000);
     if (layers.soil) layers.soil.classList.toggle("active", p > 0.04);
     if (layers.rock) layers.rock.classList.toggle("active", p > 0.32);
     if (layers.water) layers.water.classList.toggle("active", p > 0.68);
