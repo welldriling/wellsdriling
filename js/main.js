@@ -51,7 +51,7 @@
       "nav.testimonials": "آراء العملاء", "nav.contact": "اتصل بنا", "nav.quote": "عرض سعر مجاني",
       "hero.badge": "شركة عائلية مغربية بخبرة سورية عريقة في الحفر",
       "hero.title": "نحفر عميقاً… لنصل إلى الماء أينما كنت في المغرب",
-      "hero.sub": "حلول مائية متكاملة من الدراسة الجيولوجية إلى ضخّ الماء — بتجهيزات حديثة وفرق عائلية تغطي كل جهات المملكة.",
+      "hero.sub": "حلول مائية متكاملة من الضربة الأولى إلى ضخّ الماء — بتجهيزات حديثة وفرق عائلية تغطي كل جهات المملكة.",
       "hero.call": "اتصل الآن", "hero.quote": "اطلب عرض سعر",
       "stats.wells": "بئر محفورة", "stats.meters": "متر حفر",
       "stats.regions": "جهة مغطاة", "stats.years": "سنة خبرة",
@@ -120,7 +120,7 @@
       "why.kicker": "لماذا نحن",
       "why.title": "ثلاثُ ضمانات… كُتبت في شعارنا",
       "why1.t": "حلول المياه",
-      "why1.d": "نرافقك من الدراسة الجيولوجية إلى ضخّ أول قطرة، بحلول مائية متكاملة.",
+      "why1.d": "نرافقك من الضربة الأولى إلى ضخّ أول قطرة، بحلول مائية متكاملة.",
       "why2.t": "احترافية",
       "why2.d": "معدات حديثة، فرق مدرّبة، والتزام صارم بالسلامة وبمواعيد التسليم.",
       "why3.t": "موثوق ومستدام",
@@ -147,7 +147,7 @@
       "quote.step1.t": "أرسل طلبك",
       "quote.step1.d": "عبّئ النموذج وسنستقبله فوراً على واتساب.",
       "quote.step2.t": "نتصل ونحدد الزيارة",
-      "quote.step2.d": "معاينة الموقع والدراسة الجيولوجية خلال أيام.",
+      "quote.step2.d": "معاينة الموقع والضربة الأولى خلال أيام.",
       "quote.step3.t": "نحفر ونسلّم الماء",
       "quote.step3.d": "حفرٌ نظيف، تجهيز كامل، وماءٌ يجري في أرضك.",
       "contact.kicker": "اتصل بنا",
@@ -171,7 +171,7 @@
       "nav.testimonials": "Témoignages", "nav.contact": "Contact", "nav.quote": "Devis gratuit",
       "hero.badge": "Entreprise familiale marocaine, héritage syrien du forage",
       "hero.title": "Nous forons profond… pour trouver l'eau, où que vous soyez au Maroc",
-      "hero.sub": "Solutions d'eau complètes, de l'étude géologique au pompage — équipements modernes et équipes familiales couvrant tout le Royaume.",
+      "hero.sub": "Solutions d'eau complètes, du premier coup de foret au pompage — équipements modernes et équipes familiales couvrant tout le Royaume.",
       "hero.call": "Appeler maintenant", "hero.quote": "Demander un devis",
       "stats.wells": "Puits forés", "stats.meters": "Mètres forés",
       "stats.regions": "Régions couvertes", "stats.years": "Ans d'expérience",
@@ -240,7 +240,7 @@
       "why.kicker": "Pourquoi nous",
       "why.title": "Trois garanties… inscrites dans notre devise",
       "why1.t": "Solutions eau",
-      "why1.d": "Nous vous accompagnons de l'étude géologique au pompage de la première goutte, avec des solutions intégrées.",
+      "why1.d": "Nous vous accompagnons du premier coup de foret au pompage de la première goutte, avec des solutions intégrées.",
       "why2.t": "Professionnalisme",
       "why2.d": "Équipements modernes, équipes formées et respect strict de la sécurité et des délais.",
       "why3.t": "Fiable et durable",
@@ -267,7 +267,7 @@
       "quote.step1.t": "Envoyez votre demande",
       "quote.step1.d": "Remplissez le formulaire, nous le recevons immédiatement sur WhatsApp.",
       "quote.step2.t": "Nous appelons et fixons la visite",
-      "quote.step2.d": "Visite du site et étude géologique sous quelques jours.",
+      "quote.step2.d": "Visite du site et premier coup de foret sous quelques jours.",
       "quote.step3.t": "Nous forons et livrons l'eau",
       "quote.step3.d": "Un forage propre, un équipement complet et de l'eau qui coule sur votre terre.",
       "contact.kicker": "Contact",
@@ -291,7 +291,7 @@
       "nav.testimonials": "Testimonials", "nav.contact": "Contact", "nav.quote": "Free Quote",
       "hero.badge": "Moroccan family company with a proud Syrian drilling heritage",
       "hero.title": "We drill deep… to reach water, wherever you are in Morocco",
-      "hero.sub": "Complete water solutions from geological study to pumping — modern equipment and family teams covering the whole Kingdom.",
+      "hero.sub": "Complete water solutions from the first strike to pumping — modern equipment and family teams covering the whole Kingdom.",
       "hero.call": "Call now", "hero.quote": "Get a quote",
       "stats.wells": "Wells drilled", "stats.meters": "Meters drilled",
       "stats.regions": "Regions covered", "stats.years": "Years of experience",
@@ -360,7 +360,7 @@
       "why.kicker": "Why us",
       "why.title": "Three guarantees… written in our motto",
       "why1.t": "Water solutions",
-      "why1.d": "We accompany you from the geological study to pumping the first drop, with complete integrated solutions.",
+      "why1.d": "We accompany you from the first strike to pumping the first drop, with complete integrated solutions.",
       "why2.t": "Professionalism",
       "why2.d": "Modern equipment, trained teams, and a strict commitment to safety and deadlines.",
       "why3.t": "Reliable and sustainable",
@@ -387,7 +387,7 @@
       "quote.step1.t": "Send your request",
       "quote.step1.d": "Fill in the form and we receive it instantly on WhatsApp.",
       "quote.step2.t": "We call and schedule the visit",
-      "quote.step2.d": "Site survey and geological study within days.",
+      "quote.step2.d": "Site survey and first strike within days.",
       "quote.step3.t": "We drill and deliver the water",
       "quote.step3.d": "Clean drilling, complete outfitting, and water flowing on your land.",
       "contact.kicker": "Contact",
@@ -406,9 +406,9 @@
   };
 
   var SLOGANS = {
-    ar: ["نحفر اليوم، لنؤمّن الغد", "من الدراسة الجيولوجية إلى آخر قطرة", "خبرة سورية عريقة… جذور مغربية أصيلة", "نصل إلى كل جهات المملكة"],
-    fr: ["Forer aujourd'hui, sécuriser demain", "De l'étude géologique à la dernière goutte", "Savoir-faire syrien… racines marocaines", "Nous couvrons tout le Royaume"],
-    en: ["Drilling today, securing tomorrow", "From geological study to the last drop", "Syrian know-how… Moroccan roots", "We cover the whole Kingdom"]
+    ar: ["نحفر اليوم، لنؤمّن الغد", "من الضربة الأولى إلى آخر قطرة", "خبرة سورية عريقة… جذور مغربية أصيلة", "نصل إلى كل جهات المملكة"],
+    fr: ["Forer aujourd'hui, sécuriser demain", "Du premier coup de foret à la dernière goutte", "Savoir-faire syrien… racines marocaines", "Nous couvrons tout le Royaume"],
+    en: ["Drilling today, securing tomorrow", "From the first strike to the last drop", "Syrian know-how… Moroccan roots", "We cover the whole Kingdom"]
   };
 
   var FORM_MSG = {
